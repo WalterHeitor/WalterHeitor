@@ -23,4 +23,5 @@
 
 Apaixonado por tecnologia, educação e transformar a vida das pessoas atravez da progamação.
 
-![Snake animation](https://githb.com/WalterHeitor/WalterHeitor/blob/otput/github-contribuition-grid-snake.svg)
+<br/>
+![snake gif](https://github.com/WalterHeitor/WalterHeitor/blob/output/github-contribution-grid-snake.svg)
