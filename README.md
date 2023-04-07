@@ -3,7 +3,7 @@
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-heitor-3ba4b3149/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterHeitor&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterHeitor&show_icons=true&theme=merko)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterHeitor&layout=compact)](https://github.com/WalterHeitor/github-readme-stats)
 
 ## Tecnologias 
 <div style="diplay: inline_block"><br/>
@@ -19,8 +19,6 @@
     <img align="center" alt="" src=""/>
 
 </div>
-<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterHeitor&layout=compact)](https://github.com/WalterHeitor/github-readme-stats)
 
 Apaixonado por tecnologia, educação e transformar a vida das pessoas atravez da progamação.
