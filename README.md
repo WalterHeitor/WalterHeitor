@@ -1,9 +1,9 @@
-### Ola´!   Sou Walter Heitor 🔧
+### Ola´!   Sou _Walter Heitor_ 🔧
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-heitor-3ba4b3149/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterHeitor&show_icons=true&theme=merko)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterHeitor&layout=compact)](https://github.com/WalterHeitor/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WalterHeitor&show_icons=true&theme=merko)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WalterHeitor&layout=compact&theme=merko)](https://github.com/WalterHeitor/github-readme-stats)
 
 ## Tecnologias 
 <div style="diplay: inline_block"><br/>
@@ -18,7 +18,9 @@
     <img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="" src=""/>
 
-</div>
+</div> <br/>
 
 
 Apaixonado por tecnologia, educação e transformar a vida das pessoas atravez da progamação.
+
+!{Snake animation](https://githb.com/WalterHeitor/WalterHeitor/blob/otput/github-contribuition-grid-snake.svg)
