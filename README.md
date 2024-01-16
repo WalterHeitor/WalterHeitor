@@ -36,7 +36,7 @@ Apaixonado por tecnologia, educação e transformar a vida das pessoas atravez d
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    src="https://profile-counter.glitch.me/WalterHeitor/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>
